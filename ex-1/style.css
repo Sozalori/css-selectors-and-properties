@@ -1,15 +1,2 @@
 
 /* Style สำหรับ Input */
-input {
-    height: 50px;
-    width: 240px;
-    border-radius: 3px;
-}
-
-/* Style สำหรับ Button */
-button {
-    width: 120px;
-    height: 36px;
-    background-color: khaki;
-    border-color: lightgrey;
-}
